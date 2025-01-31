@@ -1,0 +1,15 @@
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+
+# vim
+*~
+*.swp
+*.swo
+
+# bin
+main
+dns
