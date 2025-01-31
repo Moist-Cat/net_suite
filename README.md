@@ -1,4 +1,4 @@
-dhcph
+net\_suite
 =====
 
-Making a DHCP server in Haskell
+Partial implementation of a DHCP server and a DNS server in haskell.
